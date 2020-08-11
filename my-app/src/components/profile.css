@@ -1,0 +1,12 @@
+.innerDiv {
+    
+
+}
+
+.gradiant{
+    background-image: linear-gradient(to bottom right, #6729F5, #8141E2, #9D5ACF);
+   height: '100%';
+display: flex;
+flex-direction: column;
+/* justify-content: center; */
+}
